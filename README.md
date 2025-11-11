@@ -1,2 +1,3 @@
-# human
-hello world
+Nurbek nima gap
+
+
